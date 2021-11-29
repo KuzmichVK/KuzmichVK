@@ -5,7 +5,7 @@
 <a href="https://t.me/asreto_asper">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+<br />
 <br />
 
 Привет, меня зовут Валентин, я продуктоый аналитик компании АТОЛ. Сейчас учусь на data-специалиста. Изучаю профессию Data Engineer, после этого буду погружаться в Data Science.
